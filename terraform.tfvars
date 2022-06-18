@@ -1,0 +1,6 @@
+vpc_id = "vpc-0859e16694bd2e910"
+ami_id = "ami-0033f5fb4f7ea19b2"
+subnet_id = "subnet-0adb7563a4fc51519"
+instance_type = "t2.micro"
+gateway_id = "igw-0ce22d74f608f6c4c"
+egress_only_gateway_id ="eigw-04b22d275f8d82a7a"
